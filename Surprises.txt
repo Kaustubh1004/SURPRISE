@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Surprise Message</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+            background-color: #f1f1f1;
+        }
+        h1 {
+            color: #FF6347;
+        }
+        p {
+            font-size: 20px;
+        }
+        h3 {
+            color: #2E8B57;
+        }
+    </style>
+</head>
+<body>
+    <h1>Hey [SHUBHIKA]</h1>
+    <p>Being upset can affect your aging process, so keep smiling! Your happiness is priceless 😊</p>
+    <h3>Remember, a smile can change everything!</h3>
+</body>
+</html>
